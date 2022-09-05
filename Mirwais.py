@@ -68,7 +68,7 @@ logo =  """
 
      ##     ##   ##    ##    ##.   ##   ###   ## 
 
-      ########   ##   ###.  ##.    ##         ## 
+      ########   ##   ###.   ##.   ##         ## 
 
      ##     ##   ##    ##    ##.   ##         ## 
 
@@ -76,11 +76,11 @@ logo =  """
 
 ══════════════════════════════════════════════════
 
-  Author       : AWM TEAM
+  Author       : Mirwais Danishyar
 
-  GROUP      : TERMUX AND HACK
+  GROUP        : TERMUX AND HACK
 
-  TOOLS STATUS : BY Pass by AWM TEAM
+  TOOLS STATUS : AWM TEAM
 
   Youtube      : AWM TECH
 
